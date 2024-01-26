@@ -1,7 +1,7 @@
 ---
 title: Address and Application Assistant
 date: 2021/3/19
-description: From City of Stirling
+description: Built for City of Stirling
 tag: architecture
 author: You
 ---
