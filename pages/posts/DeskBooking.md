@@ -6,6 +6,7 @@ tag: mobile app, low-code
 author: You
 type: post
 ---
+
 # Overview:
 
 **Final Product:** See photos below
@@ -16,9 +17,8 @@ type: post
 
 # Rationale:
 
-![Screenshot1](/images/db1.jpg)
+![Screenshot](/images/DeskBooking.png)
 
-![Screenshot2](/images/db2.jpg)
 
 * We had a small office of only five desks, sometimes causing confusion when several people wanted to come and use a desk but none being available. I wanted to build something to allow staff to choose which days they needed a desk and provide visibility to the organisation on availablity. 
 * I used Microsoft Power Apps for the app itself, and Sharepoint to store the data. This allowed the app to be completely free for internal users, no additional licenses required. 
