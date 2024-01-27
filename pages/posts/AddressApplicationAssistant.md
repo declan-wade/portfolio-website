@@ -4,6 +4,7 @@ date: 2021/3/19
 description: Built for City of Stirling
 tag: architecture
 author: You
+type: post
 ---
 # Overview:
 

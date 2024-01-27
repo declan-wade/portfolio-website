@@ -4,6 +4,7 @@ date: 2021/3/19
 description: Rapid development and deployment
 tag: architecture
 author: You
+type: post
 ---
 # Overview:
 
