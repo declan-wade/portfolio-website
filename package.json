@@ -16,7 +16,7 @@
     "react-dom": "^18.2.0",
     "rss": "^1.2.2",
     "typescript": "latest",
-    "vercel/analytics": "latest"
+    "@vercel/analytics": "latest"
   },
   "prettier": {
     "arrowParens": "always",
