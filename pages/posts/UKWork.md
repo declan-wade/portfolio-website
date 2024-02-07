@@ -7,7 +7,7 @@ author: You
 type: post
 ---
 
-# Overview:
+## Overview:
 
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/enercloud_enerclouds-first-international-client-weve-activity-7160862606453264384-YubJ)
@@ -17,7 +17,7 @@ type: post
 **Technology:** Next.js, React, Bootstrap, TypeScript, Azure, SQL Server, Express.js 
 
 
-# Involvement:
+## Involvement:
 
 * I was the development lead on this project, and was by far the most code I had written in my career. This was also my first time doing major coding for a client. 
 * Although I had limited experience with TypeScript, React and JavaScript when starting the project, I learnt an enormous amount and am proud of the final product. 
