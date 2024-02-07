@@ -7,7 +7,7 @@ author: You
 type: post
 ---
 
-# Overview:
+## Overview:
 
 **Final Product:** Your here!
 
@@ -17,7 +17,7 @@ type: post
 
 **Technology:** Vercel, Next.js, Nextra, GitHub
 
-# Rationale:
+## Rationale:
 
 * Wanted something quick and easy to setup and deploy, of which this template was ideal
 * Used technology I was familiar with, especially Next.js

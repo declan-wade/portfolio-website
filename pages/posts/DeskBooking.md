@@ -7,7 +7,7 @@ author: You
 type: post
 ---
 
-# Overview:
+## Overview:
 
 **Final Product:** See photos below
 
@@ -15,7 +15,7 @@ type: post
 
 **Technology:** Power Platform, Sharepoint
 
-# Rationale:
+## Rationale:
 
 ![Screenshot](/images/DeskBooking.png)
 

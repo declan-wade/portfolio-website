@@ -6,7 +6,8 @@ tag: architecture
 author: You
 type: post
 ---
-# Overview:
+
+## Overview:
 
 **Final Product:** https://www.stirling.wa.gov.au/planning-and-building/address-and-application-assistant
 
@@ -14,7 +15,7 @@ type: post
 
 **Technology:** Salesforce
 
-# Role and Involvement
+## Role and Involvement:
 
 * Project was a key deliverable as part of the Small Business Improvement Initiative, and an Australian Local Government first.
 * I worked with management to identify key delivery targets the product needed to achieve, primarily scope and user story from the perspective of a range of different customers: ratepayers, developers, and businesses owners. As each user type had different backgrounds and use cases, the product needed to cater for all. 

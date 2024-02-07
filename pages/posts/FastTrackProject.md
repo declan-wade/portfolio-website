@@ -7,7 +7,7 @@ author: You
 type: post
 ---
 
-# Overview:
+## Overview:
 
 **Final Product:** https://www.stirling.wa.gov.au/planning-and-building/fast-track-(development-applications)
 
@@ -15,7 +15,7 @@ type: post
 
 **Technology:** HTML, TechnologyOne, JavaScript 
 
-# Role and Involvement: 
+## Role and Involvement: 
 
 * This project was a WA Local Government first and was completely bespoke for our use case.
 * The final project scope was the culmination of months of concept design, business requirement gathering, stakeholder negotiation and several proofs-of-concept.

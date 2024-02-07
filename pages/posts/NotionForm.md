@@ -7,7 +7,7 @@ author: You
 type: post
 ---
 
-# Overview:
+## Overview:
 
 
 **Final Product:** https://notion-form-sigma.vercel.app/
@@ -18,7 +18,7 @@ type: post
 
 **Source code:** https://github.com/declan-wade/notion-form/tree/main
 
-# Rationale:
+## Rationale:
 
 * Web forms, especially forms for businesses are expensive, especially if you file uploads are required. I was not satisfied with the options on the market, thus I developed a flexible framework that can be deployed using a custom domain and custom blob storage solution with Notion.
 * Notion is a popular task management, wiki, collaboration SaaS solution that offers a generous free tier and optional paid tier for teams. 
