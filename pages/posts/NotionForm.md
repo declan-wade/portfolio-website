@@ -1,6 +1,6 @@
 ---
 title: Notion Form
-date: 2021/3/19
+date: 2024/1/29
 description: A simple demo to connect a form to Notion
 tag: notion, react, web development 
 author: You
