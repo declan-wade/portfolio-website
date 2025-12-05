@@ -12,8 +12,8 @@
     "next": "latest",
     "nextra": "alpha",
     "nextra-theme-blog": "alpha",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "latest",
+    "react-dom": "latest",
     "rss": "^1.2.2",
     "typescript": "latest",
     "@vercel/analytics": "latest"
